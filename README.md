@@ -13,4 +13,5 @@ This project is about car classification for [stanford car dataset](https://ai.s
 +	Improved test accuracy of the best model to 85% using cross-validation model selection techniques
 
 # Result and Evaluation
-Please Check results in my notebook
+Please Check results in my notebook.
+You can also check the Google Colab version here https://colab.research.google.com/drive/1CMThN_FbmKJFWTiGgfts5xsmX2mhtguT?usp=sharing
